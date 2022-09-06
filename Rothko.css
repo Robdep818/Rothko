@@ -27,10 +27,12 @@ accent color: EB1D36
   background-color: #7A8686;
   width: 475px;
   height: 200px;
-  margin: auto;
+  margin: auto 20px;
+
 }
 .three {
   width: 91%;
   height: 28%;
   background-color: #7A8686;
   margin: auto;
+}
