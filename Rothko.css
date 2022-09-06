@@ -8,10 +8,18 @@ accent color: EB1D36
     width: 500px;
     height: 600px;
     background-color: #F5EDDC;
+    /*padding: 1px;*/
+    overflow: hidden;
 }
 .frame{
     border: 50px solid black;
     width: 500px;
     padding: 50px;
     margin: 20px auto;
+}
+.one {
+  width: 425px;
+  height: 150px;
+  background-color:#7A8686;
+  margin: 20px auto;
 }
