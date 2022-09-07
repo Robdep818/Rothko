@@ -10,6 +10,7 @@ accent color: EB1D36
     background-color: #F5EDDC;
     /*padding: 1px;*/
     overflow: hidden;
+    filter:blur(2px);
 }
 .frame{
     border: 50px solid black;
